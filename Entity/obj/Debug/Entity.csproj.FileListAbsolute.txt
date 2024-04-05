@@ -1,0 +1,12 @@
+D:\Desenvolvimento\VISUALSTUDIO2019\Solution WinThorTools\Entity\bin\Debug\Entity.dll
+D:\Desenvolvimento\VISUALSTUDIO2019\Solution WinThorTools\Entity\bin\Debug\Entity.pdb
+D:\Desenvolvimento\VISUALSTUDIO2019\Solution WinThorTools\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+D:\Desenvolvimento\VISUALSTUDIO2019\Solution WinThorTools\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\VISUALSTUDIO2019\Solution WinThorTools\Entity\obj\Debug\Entity.dll
+D:\Desenvolvimento\VISUALSTUDIO2019\Solution WinThorTools\Entity\obj\Debug\Entity.pdb
+D:\Desenvolvimento\solutions\VISUALSTUDIO2019\Solution WinthorTools\Entity\bin\Debug\Entity.dll
+D:\Desenvolvimento\solutions\VISUALSTUDIO2019\Solution WinthorTools\Entity\bin\Debug\Entity.pdb
+D:\Desenvolvimento\solutions\VISUALSTUDIO2019\Solution WinthorTools\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+D:\Desenvolvimento\solutions\VISUALSTUDIO2019\Solution WinthorTools\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\solutions\VISUALSTUDIO2019\Solution WinthorTools\Entity\obj\Debug\Entity.dll
+D:\Desenvolvimento\solutions\VISUALSTUDIO2019\Solution WinthorTools\Entity\obj\Debug\Entity.pdb

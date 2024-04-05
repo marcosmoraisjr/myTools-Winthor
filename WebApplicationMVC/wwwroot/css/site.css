@@ -1,0 +1,35 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+/* -------- */
+
+.nav-link.a{
+    color: #000000;
+}
+
+.nav-link:hover, .nav-link:focus{
+    color:#ffffff !important;
+    background-color:blue !important;
+}
+
+.active{
+    color: #4333f3 !important;
+    border-bottom: 5px solid blue;
+}
+

@@ -1,0 +1,8 @@
+D:\Desenvolvimento\solutions\VISUALSTUDIO2022\Solution WinthorTools\WebApplication\obj\Debug\net6.0\WebApplication.csproj.AssemblyReference.cache
+D:\Desenvolvimento\solutions\VISUALSTUDIO2022\Solution WinthorTools\WebApplication\obj\Debug\net6.0\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\solutions\VISUALSTUDIO2022\Solution WinthorTools\WebApplication\obj\Debug\net6.0\WebApplication.AssemblyInfoInputs.cache
+D:\Desenvolvimento\solutions\VISUALSTUDIO2022\Solution WinthorTools\WebApplication\obj\Debug\net6.0\WebApplication.AssemblyInfo.cs
+D:\Desenvolvimento\solutions\VISUALSTUDIO2022\Solution WinthorTools\WebApplication\obj\Debug\net6.0\WebApplication.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\solutions\VISUALSTUDIO2022\Solution WinthorTools\WebApplication\obj\Debug\net6.0\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\Desenvolvimento\solutions\VISUALSTUDIO2022\Solution WinthorTools\WebApplication\obj\Debug\net6.0\WebApplication.RazorAssemblyInfo.cache
+D:\Desenvolvimento\solutions\VISUALSTUDIO2022\Solution WinthorTools\WebApplication\obj\Debug\net6.0\WebApplication.RazorAssemblyInfo.cs

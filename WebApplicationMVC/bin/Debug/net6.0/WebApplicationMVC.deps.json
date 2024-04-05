@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WebApplicationMVC/1.0.0": {
+        "dependencies": {
+          "Business.Logic.Layer": "1.0.0",
+          "Entity": "1.0.0"
+        },
+        "runtime": {
+          "WebApplicationMVC.dll": {}
+        }
+      },
+      "Business.Logic.Layer/1.0.0": {
+        "dependencies": {
+          "Data.Access.Layer": "1.0.0",
+          "Entity": "1.0.0"
+        },
+        "runtime": {
+          "Business.Logic.Layer.dll": {}
+        }
+      },
+      "Data.Access.Layer/1.0.0": {
+        "dependencies": {
+          "Entity": "1.0.0"
+        },
+        "runtime": {
+          "Data.Access.Layer.dll": {}
+        }
+      },
+      "Entity/1.0.0": {
+        "runtime": {
+          "Entity.dll": {}
+        }
+      },
+      "Oracle.ManagedDataAccess/4.122.21.1": {
+        "runtime": {
+          "Oracle.ManagedDataAccess.dll": {
+            "assemblyVersion": "4.122.21.1",
+            "fileVersion": "4.122.21.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApplicationMVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Business.Logic.Layer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Data.Access.Layer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Oracle.ManagedDataAccess/4.122.21.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

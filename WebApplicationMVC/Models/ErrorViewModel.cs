@@ -1,0 +1,12 @@
+using Entity;
+using Business.Logic.Layer;
+
+namespace WebApplicationMVC.Models
+{
+    public class ErrorViewModel
+    {
+        public string? RequestId { get; set; }
+
+        public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
+    }
+}

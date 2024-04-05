@@ -1,0 +1,12 @@
+D:\Desenvolvimento\solutions\VISUALSTUDIO2019\Solution WinthorTools\Entity\bin\Release\Entity.dll
+D:\Desenvolvimento\solutions\VISUALSTUDIO2019\Solution WinthorTools\Entity\bin\Release\Entity.pdb
+D:\Desenvolvimento\solutions\VISUALSTUDIO2019\Solution WinthorTools\Entity\obj\Release\Entity.csproj.AssemblyReference.cache
+D:\Desenvolvimento\solutions\VISUALSTUDIO2019\Solution WinthorTools\Entity\obj\Release\Entity.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\solutions\VISUALSTUDIO2019\Solution WinthorTools\Entity\obj\Release\Entity.dll
+D:\Desenvolvimento\solutions\VISUALSTUDIO2019\Solution WinthorTools\Entity\obj\Release\Entity.pdb
+D:\Desenvolvimento\solutions\VISUALSTUDIO2022\Solution WinthorTools\Entity\bin\Release\Entity.dll
+D:\Desenvolvimento\solutions\VISUALSTUDIO2022\Solution WinthorTools\Entity\bin\Release\Entity.pdb
+D:\Desenvolvimento\solutions\VISUALSTUDIO2022\Solution WinthorTools\Entity\obj\Release\Entity.csproj.AssemblyReference.cache
+D:\Desenvolvimento\solutions\VISUALSTUDIO2022\Solution WinthorTools\Entity\obj\Release\Entity.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\solutions\VISUALSTUDIO2022\Solution WinthorTools\Entity\obj\Release\Entity.dll
+D:\Desenvolvimento\solutions\VISUALSTUDIO2022\Solution WinthorTools\Entity\obj\Release\Entity.pdb
